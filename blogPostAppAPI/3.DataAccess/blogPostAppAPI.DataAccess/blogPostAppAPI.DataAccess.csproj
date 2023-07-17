@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20230410081311_Initial.cs" />
+    <Compile Remove="Migrations\20230410081311_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20230411092444_Initial.cs" />
+    <Compile Remove="Migrations\20230411092444_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20230411094624_InitialMigration.cs" />
+    <Compile Remove="Migrations\20230411094624_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20230413100530_TryToFixError.cs" />
+    <Compile Remove="Migrations\20230413100530_TryToFixError.Designer.cs" />
+    <Compile Remove="Migrations\20230413100858_InitialMigration.cs" />
+    <Compile Remove="Migrations\20230413100858_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20230413101418_InitialMigration.cs" />
+    <Compile Remove="Migrations\20230413101418_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20230413102510_CreatingOneToMany.cs" />
+    <Compile Remove="Migrations\20230413102510_CreatingOneToMany.Designer.cs" />
+    <Compile Remove="Migrations\20230413102726_InitialMigration.cs" />
+    <Compile Remove="Migrations\20230413102726_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20230413103126_InitialMigration.cs" />
+    <Compile Remove="Migrations\20230413103126_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20230414090513_AlterColunName.cs" />
+    <Compile Remove="Migrations\20230414090513_AlterColunName.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.32">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.32">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\4.Foundation\blogPostAppAPI.Foundation.Domain\blogPostAppAPI.Foundation.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

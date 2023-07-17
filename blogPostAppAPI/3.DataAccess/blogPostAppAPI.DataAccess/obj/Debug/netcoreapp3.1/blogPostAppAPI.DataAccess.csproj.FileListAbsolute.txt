@@ -1,0 +1,16 @@
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.deps.json
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.runtimeconfig.json
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.runtimeconfig.dev.json
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.pdb
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.csproj.CopyComplete
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.pdb
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.DataAccess.genruntimeconfig.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.pdb

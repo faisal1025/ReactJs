@@ -1,0 +1,10 @@
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.deps.json
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.pdb
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.pdb

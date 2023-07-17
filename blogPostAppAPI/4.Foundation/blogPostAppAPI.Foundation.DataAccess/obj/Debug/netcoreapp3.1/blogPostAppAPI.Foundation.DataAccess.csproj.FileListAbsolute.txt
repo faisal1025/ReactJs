@@ -1,0 +1,13 @@
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.deps.json
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.pdb
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\bin\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.Domain.pdb
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.csproj.CopyComplete
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.dll
+C:\Users\faisalazmi\faisal-azmi\React_Js\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.DataAccess\obj\Debug\netcoreapp3.1\blogPostAppAPI.Foundation.DataAccess.pdb
