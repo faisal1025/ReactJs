@@ -1,43 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\faisa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faisalazmi\\faisal-azmi\\React_Js\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\blogPostAppAPI.Core.csproj",
+      "projectUniqueName": "D:\\Angular+.Net\\ReactJs\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\blogPostAppAPI.Core.csproj",
       "projectName": "blogPostAppAPI.Core",
-      "projectPath": "C:\\Users\\faisalazmi\\faisal-azmi\\React_Js\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\blogPostAppAPI.Core.csproj",
-      "packagesPath": "C:\\Users\\faisalazmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faisalazmi\\faisal-azmi\\React_Js\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\obj\\",
+      "projectPath": "D:\\Angular+.Net\\ReactJs\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\blogPostAppAPI.Core.csproj",
+      "packagesPath": "C:\\Users\\faisa\\.nuget\\packages\\",
+      "outputPath": "D:\\Angular+.Net\\ReactJs\\blogPostAppAPI\\4.Foundation\\blogPostAppAPI.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\faisalazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\faisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "netcoreapp7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "netcoreapp7.0",
           "projectReferences": {}
         }
       },
@@ -48,15 +43,16 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net7.0": {
+        "targetAlias": "netcoreapp7.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,17 @@
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.deps.json
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.runtimeconfig.json
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.pdb
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\bin\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.pdb
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.csproj.AssemblyReference.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.AssemblyInfoInputs.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.AssemblyInfo.cs
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.csproj.CopyComplete
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\refint\blogPostAppAPI.DataAccess.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.pdb
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\blogPostAppAPI.DataAccess.genruntimeconfig.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\3.DataAccess\blogPostAppAPI.DataAccess\obj\Debug\netcoreapp7.0\ref\blogPostAppAPI.DataAccess.dll

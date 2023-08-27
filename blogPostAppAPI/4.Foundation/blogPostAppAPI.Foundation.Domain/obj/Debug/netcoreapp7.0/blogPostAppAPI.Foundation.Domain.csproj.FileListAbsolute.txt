@@ -1,0 +1,11 @@
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.deps.json
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\bin\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.pdb
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.AssemblyInfoInputs.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.AssemblyInfo.cs
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.csproj.CoreCompileInputs.cache
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\refint\blogPostAppAPI.Foundation.Domain.dll
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\blogPostAppAPI.Foundation.Domain.pdb
+D:\Angular+.Net\ReactJs\blogPostAppAPI\4.Foundation\blogPostAppAPI.Foundation.Domain\obj\Debug\netcoreapp7.0\ref\blogPostAppAPI.Foundation.Domain.dll
